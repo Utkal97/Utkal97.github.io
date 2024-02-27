@@ -1,0 +1,57 @@
+{
+    "about": {
+        "name": "Utkal Sirikonda",
+        "intro": "A Computer Science graduate student with 3 years of Software Development experience and passion in Visual Computing."
+    },
+    "experience": [{
+        "title": "Product Team Lead",
+        "organization": "Inncircles Arena",
+        "link": "https://inncirclesarena.com",
+        "description": [],
+        "skills": [],
+        "timeline": {
+            "start": "Jan, 2022",
+            "end": "Aug, 2023"
+        }
+    }, {
+        "title": "Product Developer",
+        "organization": "Inncircles Arena",
+        "link": "https://inncirclesarena.com",
+        "description": [],
+        "skills": [],
+        "timeline": {
+            "start": "Jan, 2021",
+            "end": "Dec, 2021"
+        }
+    }, {
+        "title": "Data Analyst Intern",
+        "organization": "CommScope Inc.",
+        "link": "https://www.commscope.com/",
+        "description": [],
+        "skills": [],
+        "timeline": {
+            "start": "May, 2018",
+            "end": "July, 2018"
+        }
+    }],
+    "projects": {
+        "visual-computing": [{
+            "title": "Ray Tracing",
+            "link": null,
+            "description": [],
+            "skills": []
+        }],
+        "development": [{
+            "title": "Ray Tracing",
+            "link": null,
+            "description": [],
+            "skills": []
+        }]
+    },
+    "contact": {
+        "email": "usiriko@clemson.edu",
+        "phone": "+1 (864)765-8134",
+        "github": "https://github.com/Utkal97",
+        "linkedIn": "https://www.linkedin.com/in/utkalsirikonda/"
+    }
+}
